@@ -1,0 +1,350 @@
+{
+  "id": "escena11",
+  "titulo": "2.1 Mary ferida al tren",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "Se sent una explosió de so: els primers compassos del «Stüermisch Bewegt» de la Cinquena Simfonia de Mahler. Els llums s'encenen i estem on érem al final de l'Acte I. Tothom paralitzat, mirant Mary a terra, en un bassal de sang, amb la pistola al costat."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "NO TOQUEU RES!"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Per descomptat. Encara és viva."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Gràcies a Déu!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Mary es mou i gemega."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Mary!"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Què… què ha passat?"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "T'han disparat, per l'amor de Déu!"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Necessito el meu maletí mèdic."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Jo el buscaré!"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "De pressa! Compartiment dotze!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Michel, si us plau, registra el tren."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Oui, monsieur."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "L'acompanyaré."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Jo també!"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Si l'assassí encara és al tren, potser tots estem en perill."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Espereu! Teniu una pistola?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "N'hi ha una per emergències a la caixa dels porters."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Porteu-la. Això no és un joc."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Oui, monsieur."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "De pressa."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Bouc, Michel i McQueen surten corrent. Mrs. Hubbard torna amb el maletí de primers auxilis."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Pots seure dreta?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Crec que sí. Au!"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Hi ha molta sang. No m'agrada la sang."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "A ningú li agrada la sang. Aquí té el maletí."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "A mi no m'agrada res d'això…"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Si es desmaia, li prometo que l'agafo abans que caigui."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Gràcies. Només és el teu braç?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Sí."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "No tens cap altra ferida?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "No."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Comtessa treu unes tisores."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "No t'espantis. Només tallaré la màniga de la brusa per veure millor la ferida."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Comtessa talla la màniga per un costat i l'extreu del tot, deixant al descobert el braç ensangonat de Mary. Tothom fa un gest de rebuig."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "No ho puc mirar."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "No es preocupi, senyoreta."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Això farà una mica de mal. Vosaltres en dieu…"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Se'n diu «Yodo»."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "En català es diu Iode."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "AU!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Vés amb compte, si us plau!"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Estic bé, coronel."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Té molta sort, senyoreta Debenham. Dos centímetres més enllà i hauria estat fatal."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Doncs donem gràcies per aquest miracle!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Comtessa, puc fer una pregunta a la senyoreta Debenham?"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Et trobes bé?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Crec que sí."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "És molt senzill, mademoiselle: qui t'ha disparat?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Jo… no ho sé. Només l'he vist un moment. Era…"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Què?"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Explica'ns-ho."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "No té sentit. Duia com una mena d'uniforme. Però potser m'ho he imaginat."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Pots explicar-nos què ha passat?"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Durant l'explicació, la Comtessa continua netejant i embenant la ferida."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Ho intentaré. Aquest matí m'he despertat desorientada, com si m'haguessin drogat o alguna cosa així, i amb un mal de cap terrible. He mirat a la maleta buscant aspirines, però no en tenia. Aleshores he sortit de l'habitació i he vist que la porta de la senyora Hubbard era entreoberta. L'he cridat, però no hi era, i llavors… sé que no hauria d'haver-ho fet… però hi he entrat. Ho sento."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Cap problema reina."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Continua."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "El cap em matava i no pensava amb claredat… així que he buscat aspirines al necesser de la senyora Hubbard. I… he trobat un ganivet… ple de sang!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Un ganivet!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Al meu necesser?!"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Sí."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "On és?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "L'he deixat allà. M'he espantat molt."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Redéu, el vaig a buscar."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "NO! No el «vas a buscar». El recuperaré quan sigui el moment. Senyoreta Debenham, continuï—"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Però això demostra que hi havia un home a la meva cambra ahir a la nit, com jo deia –"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Senyora Hubbard!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Perdó."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Par-la mas-sa."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Per-do-ni?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Senyoreta Debenham, siusplau."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Quan he vist el ganivet, m'he espantat i he fet un pas enrere cap a l'habitació d'en Ratchett. I he vist el cos al llit, ple de sang i ferides, i he… he cridat. I aleshores he vist l'home i la pistola, i és l'últim que recordo."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Comença a plorar."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Tranquil·la."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Estàs segura que era un home?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Crec que sí. Ho vaig suposar. Però no n'estic del tot segura."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Devia estar amagat darrere la porta, esperant escapar."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Si hagués entrat jo primer, zas! S'haurien acabat les cançons de Broadway a la dutxa."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "I això hauria estat una gran pèrdua."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Senyora Hubbard, on guarda el seu necesser?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Encantada de dir-ho. Just darrere la porta, penjat del pom. Si aquests compartiments fossin més grans, no hauria de penjar el meu necesser com una estudiant de l'Institut del Teatre que viu amb una mà al davant i l'altre al darrere després d'acabar la carrera."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Poirot ha recuperat el necesser i n'extreu un punyal esmolat cobert de sang. Mrs. Hubbard el veu."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "No ho puc mirar!"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "No n'havia vist mai cap com aquest."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ah, ah. El faré analitzar per empremtes. Mentrestant, sortiu tots sense tocar res. Després, seré al cotxe menjador i voldria veure primer la senyoreta Debenham –"
+    }
+  ]
+}

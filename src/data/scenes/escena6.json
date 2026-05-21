@@ -1,0 +1,22 @@
+{
+  "id": "escena6",
+  "titulo": "1.6 Michel i la ràdio de Belgrad",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "Ara veiem en Michel al final del passadís dels dormitoris. Intenta fer servir l'emissor-receptor del tren, un aparell antiquat i feixuc que sol donar problemes. Primer sentim el xiulet agut de la ràdio intentant trobar senyal, i després la crepitació de l'estàtica quan troba la connexió."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Orient Express a l'estació de Belgrad. Orient Express a l'estació de Belgrad. Trucada d'emergència número 867. Codi d'alerta Blau. És important. Em rebeu? Hola? Esteu aquí, Belgrad?"
+    },
+    {
+      "personaje": "Ràdio",
+      "texto": "Et rebem, Express. Si us plau, continua."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Acabem de sortir de Sofia i la neu cada vegada cau amb més força. Estic començant a preocupar-me ara que entrem a la muntanya. Prepareu l'equip de rescat per si cal aturar-nos. Belgrad? Belgrad, em sentiu?!"
+    }
+  ]
+}

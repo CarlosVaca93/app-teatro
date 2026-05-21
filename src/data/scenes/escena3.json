@@ -1,0 +1,387 @@
+{
+  "id": "escena3",
+  "titulo": "1.3 L'andana de l'Orient Express",
+  "dialogos": [
+    {
+      "personaje": "Megafonia",
+      "texto": "Messieurs et mesdames, l'Orient Express partira dans vingt minutes du quai numéro dix. Veuillez faire attention aux marches, soyez prudent et bon voyage. Senyores i senyors, l'Orient Express sortirà en vint minuts de l'andana deu. Aneu amb compte amb els graons i bon viatge."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Greta, pots deixar aquestes maletes d'una vegada?"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "No, no, princesa, no us preocupeu. No són tan pesades com semblen."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Doncs a mi em semblen pesadíssimes!"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Princesa Dragomiroff. És un plaer veure-la. Si em permet, madame, deixi'm ajudar-la."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Sóc mademoiselle. No estic casada, només amb Déu totpoderós, que viu al cel."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Oh, Greta, si us plau, ara no. Aquesta és la Greta Ohlsen."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Sóc missionera i treballo a l'Àfrica amb nens petits."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "He acceptat pagar-li el viatge si m'ajuda durant el trajecte fins a París."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Però la seva acompanyant habitual, la senyoreta Schmidt…?"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Està molt malalta."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Els metges ho anomenen un esdeveniment cardíac, però com que és alemanya, segurament no l'aturarà gaire."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Resaré per la senyoreta Ohlsen i Déu la protegirà."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Greta, prou. Puja al tren, sisplau."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Esteu al compartiment onze, com sempre, princesa. I vostè, senyoreta Ohlsen, compartirà el compartiment quatre amb la senyoreta Mary Debenham."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Sóc la senyoreta Debenham."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Ah, mademoiselle. Compartirà compartiment amb la senyoreta Ohlsen."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Faré tot el possible per no molestar-vos."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Segur que ens entendrem de meravella."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Madonna mia, quin caos! Disculpi, és aquí l'Orient Express?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Sí, madame. Nom?"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Foscarelli. Antonia Foscarelli."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Compartiment sis, madame. Vagó de primera."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Grazie mille! El taxi m'ha portat per mig Istanbul! On és el restaurant? Necessito un espresso de debò."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Coronel Arbuthnot. Compartiment deu."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Sí, coronel. Tot preparat."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Excel·lent. Tren puntual?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Quatre minuts exactes, coronel."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Perfecte."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Hannah!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Aquí, senyor. Sóc aquí mateix."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Les maletes ja són al tren?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Sí, senyor. I… aquest matí he comprovat si hi havia correu nou i… ha arribat això…"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Maleïda sigui!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Ja ho sé, és horrible. Mireu això! «Prepara't per morir»?"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "No cridis!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Hauríeu d'avisar la policia!"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "No és assumpte seu."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Però és perillós! És el tercer que rebeu aquesta setmana. Sort que teniu una pistola."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Que baixis la veu!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Disculpi. Em podria indicar el compartiment número set, si us plau?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "El número set, monsieur? Crec que hi ha un error."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Esperem que no."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "El seu nom?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Em dic Hercule Poirot."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Hercule Poirot, el detectiu?"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Bé, què tenim aquí! Hercule Poirot! He sentit a parlar de vos. Sou tota una eminència."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Merci, monsieur."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "El meu nom és Ratchett. Samuel Ratchett. Importació-exportació. I potser tindria feina per vos."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Em sap greu, però estic de vacances, monsieur."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Canviareu d'opinió quan sentiu el preu, eh? Ha, ha!"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Monsieur Ratchett, esteu al compartiment dos."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Ja sé on vaig, gràcies. Ja en parlarem dins."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Monsieur Poirot! Alors. M'heu guanyat a l'andana. Heu conegut en Michel? És de París i és el millor revisor de la companyia!"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Merci, monsieur. Però el vostre amic diu que té el compartiment número set, i em temo que està ocupat. De fet, tot el vagó de primera està ple."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Això és increïble."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Ja ho sé, monsieur. Tothom ha triat viatjar aquesta nit."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Poseu-lo al número u, si us plau. És el meu compartiment personal. Ja trobaré lloc a un altre vagó."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Non, non. No puc prendre el vostre llit, mon ami."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Insisteixo. Ja està decidit. Michel, feu els canvis."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Us estic molt agraït."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ara digueu-me, ja han arribat tots els passatgers?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Encara no. Falta la senyora Hubbard, el coronel i la comtessa Andrenyi."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "He sentit a dir que la comtessa és una de les grans belleses d'Europa. És hongaresa, d'origen humil, però es va fer metgessa, i en casar-se amb el comte es va convertir en reialesa!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Comtessa Eléna Andrenyi! Benvinguda! Sóc monsieur Bouc de la Wagon-Lit."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "És un plaer veure'l."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "La vostra reputació us precedeix, madame. Permeteu-me presentar-vos el meu amic, monsieur Hercule Poirot."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "El famós detectiu. És meravellós. He llegit sobre vos als diaris, monsieur, i us admiro molt."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ön nagyon kedves."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Ez as igazság."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Nagyon örvendek."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Parleu hongarès perfectament."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "No tan bé com vos parleu l'anglès."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Puc ajudar-vos amb l'equipatge, madame?"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "No, no, no és res."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "I el comte, el vostre marit, us acompanya?"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "No, no pot venir aquesta vegada. Però ja que vaig a veure la meva mare, m'està bé. A ell no li cau bé. Monsieur Poirot, espero sentir parlar de les vostres aventures."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I jo espero explicar-vos-les."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Compartiment dotze, comtessa."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "És aquest l'Orient Express de què tant parlen? No sembla gran cosa, des d'aquí."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Vós sou la senyora Hubbard?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Senyora Helen Caroline Peabody-Wolfson-Van Pelt-Hubbard, si us plau, de l'estat jardí de Minnesota. El senyor Peabody, el meu primer marit, era una ànima molt bona, però el pobre home no tenia gens de talent per a la longevitat —i no hauria de dir «pobre», perquè li va anar força bé a la vida, moltes gràcies. El meu segon marit va ser un tal senyor Wolfson, a qui vaig estimar força, però ell estimava moltes dones, així que vaig canviar-lo per un Van Pelt. Però el vaig enxampar al llit amb aquella pèl-roja del Waldorf que li feia la manicura. Finalment vaig trobar el senyor Hubbard, i l'anomeno el meu petit cavaller blanc perquè em va salvar d'una vida de partides de bridge i còctels aigualits al Country Club de Minneapolis."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "I el senyor Hubbard, l'acompanya?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "No. Diu que li puja la pressió quan viatja amb mi. Ara hi vaig sola per tots dos. A vos us agrada viatjar?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Viatjo cada dia."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Doncs hauríem d'intercanviar experiències algun dia."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Compartiment tres."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "El meu o el vostre?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "El vostre, madame."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Espero que sigui còmode, Michel."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Mai no he rebut cap queixa, madame."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "No m'estranya gens."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Té molta personalitat."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Tots en tenen."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I penseu: durant tres dies, aquests desconeguts conviuran en espais reduïts, menjant i dormint sota el mateix sostre."
+    }
+    
+  ]
+}

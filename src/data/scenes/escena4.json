@@ -1,0 +1,226 @@
+{
+  "id": "escena4",
+  "titulo": "1.4 Al vagó restaurant de l'Orient Express",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "Ara ens trobem al vagó restaurant de la classe primera de l'Orient Express. El vagó brilla amb elegància i romanticisme. Els acabats són daurats, els coixins de vellut vermell, i la barra del vagó està feta amb fusta incrustada. El tren és impressionant."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Alguns passatgers passen amb l'equipatge."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Caram, això és la pera llimonera. Potser m'hi quedo a viure per sempre."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Per aquí, si us plau."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Mare meva! Està nevant, aquí fora?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "En aquesta època de l'any, sí. L'any passat ens vam quedar atrapats per la neu durant set dies."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Set dies! Hi havia alcohol al tren?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Sempre n'hi ha de sobres."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Ara ja puc respirar tranquil·la. No em mal interpreti, també menjo menjar sòlid, sempre que estigui cuinat amb bourbon."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Surten, mentre entren la Princesa i la Greta."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Greta, t'has d'afanyar, afanyat! Ens hem d'instal·lar abans que el tren es posi en marxa!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "He de confessar-li, princesa, que no m'agraden els trens des que era petita. Em fan sentir molt tancada, com la roba de la talla equivocada que em pressiona el bust, que Déu em perdoni."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Oh, no siguis bleda. Els trens són meravellosos."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Tampoc no m'agraden els desconeguts ni el clac-clac-clac. Però ens asseurem l'una al costat de l'altra, ja? A l'Àfrica, una vegada vaig anar en tren i hi havia soroll, plors, i fins i tot animals! Vaig fer tot el viatge acompanyada d'una cabra. I en aquest trajecte que estem fent juntes ara, crec que no serà gaire diferent, ja?"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Greta surt. La Princesa la segueix. Entra Poirot, seguit per Ratchett, que intenta atrapar-lo."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Senyor Poirot, esperi un moment! Voldria parlar d'un tema."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Non, non, em temo que ara no és bon moment."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "I tant que ho és. Assegui's. Seré ràpid, ho prometo. Vull contractar-lo per una feina."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ara prenc molt pocs casos nous."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Acceptarà aquest, li ho garanteixo."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I per què hauria de fer-ho?"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Perquè estem parlant de molts diners. Senyor Poirot, tinc un enemic."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Jo diria que en té més d'un."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "I això què se suposa que vol dir?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Vostè té èxit, n'est-ce pas? Les persones amb èxit tenen molts enemics."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Exacte! Això mateix! Veu, he estat rebent cartes amenaçadores darrerament i vull tenir un parell d'ulls addicionals per investigar una mica. I això és el que vostè fa, oi? Investigar? Naturalment, puc cuidar-me sol. Però li pago cinc mil dòlars. Com ho veu?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Non."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Bé, deu mil. Per uns quants dies de feina."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "No estic en venda, monsieur. He tingut la sort de tenir èxit en la meva professió i ara només accepto casos que m'interessin —i francament, vostè no m'interessa."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Vol que m'humiliï, és això?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "No vull res, monsieur, excepte marxar."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Poirot surt. Ratchett està enfurismat. Dona una puntada de peu a terra. Entra la Comtessa, que passa per allà. Fa un gest de cap mentre intenta passar."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Perdoni. Disculpi."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Ei, vostè és la comtessa, oi?"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Correcte."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Doncs és molt guapa. I pel que he sentit, vostè era una dona comuna abans, com la resta de nosaltres."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "També és cert."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Això vol dir que prendrà una copa amb mi?"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Estic casada, monsieur. El meu marit és fora per negocis. Disculpi'm."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Ei, no tan de pressa."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Comtessa es gira bruscament. Ell li barra el pas, amenaçador."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Aparti's ara mateix, si us plau."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "No cal que es posi tan digna."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Si no es mou immediatament, cridaré."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Esperi un moment! Ha dit que ara mateix està sola, i som en un tren, així que a qui dimonis li importa el que passi en alguna habitació privada de…"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Pam! Ella li dona una bufetada fortíssima. Ell està a punt de reaccionar violentament."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "No s'acosti a mi."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Entra McQueen de cop."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Oh, senyor Ratchett, el buscava. He… he deixat la seva copa de vi al costat del llit, i si no necessita res més aquesta nit, pensava que podria…"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Calla, Hannah. Simplement… calla!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "En aquest moment, entra Bouc."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ahà! Amics meus! Espero que s'estiguin acomodant bé i que estiguin gaudint. Ja no falta gaire perquè…"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Clonc! El tren s'engega de cop, i tothom s'agafa al que pot. Comença a moure's i es respira un alleujament general."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ha, ha! No gaire estona! El viatge comença, i us desitjo bona sort i bon viatge!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La llum s'apaga ràpidament i sentim com el tren agafa velocitat, primer lentament, després més i més ràpid. Mentre el tren avança, veiem la neu caure, cada cop més forta. Simultàniament sona l'obertura frenètica i impulsiva de l'arranjament de Rakhmàninov de «El vol del borinot» de Rimsky-Korsakov."
+    }
+  ]
+}

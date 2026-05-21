@@ -1,0 +1,312 @@
+{
+  "id": "escena2",
+  "titulo": "1.2 Restaurant a Istanbul abans de l'Orient Express",
+  "dialogos": [
+    {
+      "personaje": "Cap de Cambrers",
+      "texto": "Per aquí, monsieur. Tinc una taula preciosa que estic segur que li encantarà. És la primera vegada de monsieur a Istanbul?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "És correcte. Com ho ha sabut?"
+    },
+    {
+      "personaje": "Cap de Cambrers",
+      "texto": "Ohh. M agrada fer petites observacions, monsieur. En aquest negoci, cal ser detectiu, com aquell famós Poirot que ve de França."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Crec que és belga."
+    },
+    {
+      "personaje": "Cap de Cambrers",
+      "texto": "No, no. De França. El conec personalment."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ah."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Poirot mira al públic."
+    },
+    {
+      "personaje": "Cap de Cambrers",
+      "texto": "La seva taula, monsieur."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Merci."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Mentre Poirot s’asseu i agafa un diari, el Coronel Arbuthnot irromp al menjador i s’apressa cap a una taula on l’espera Mary Debenham. El Coronel és escocès, d’uns trenta-cinc anys, atractiu i molt directe. La Srta. Debenham és una bellesa anglesa de vint-i-pocs anys. Però als seus ulls hi ha una ombra de tristesa. Està nerviosa."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Mary. Oh, ets aquí!"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "James! Per fi! On eres?!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "No arribo tan tard."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "I tant que sí. Sempre arribes tard. I tenia una por terrible de perdre el tren. Ho arruïnaria tot!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Només estava explorant una mica. No havia estat mai a Istanbul."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "A mi no. Jo només vull marxar i acabar-ho d’una vegada."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Arbuthnot li posa la mà a la galta."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Tant de bo fossis lluny de tot això. Et mereixes molt més, i ho saps."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Sht! Ara no! Ningú hauria de veure’ns així. No fins que tot hagi passat. A més, crec que aquell home estrany ens observa."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Mary assenyala cap a Poirot, que s’amaga darrere el diari."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Ell? Segurament és un estranger qualsevol que ni tan sols parla anglès."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "El diari de Poirot es sacseja involuntàriament."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Demanem? Tinc una gana…"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Aquí no. He trobat un lloc aquí al costat, i segur que el menjar és molt més bo."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Però no podem arribar tard al tren! No el podem perdre!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "No hi arribarem tard, t’ho prometo. Ara deixa de patir i anem, afanya’t."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Mentre marxen, veiem la Sra. Hubbard asseguda a prop. És una americana decidida d’uns cinquanta anys, ben vestida, amb un toc extravagant. Crida al Cap de Cambrers mentre remena la bossa buscant diners."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Iuhuu! Disculpi, cambrer. Ha fet una feina molt bona i li vull deixar una propina extra. Com es diu vostè?"
+    },
+    {
+      "personaje": "Cap de Cambrers",
+      "texto": "Jean-Luc."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Encantada."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "En aquest moment, entra Hannah McQueen. És una nord-americana jove i nerviosa d’uns trenta anys, amb el rostre tens i preocupat."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Disculpi, jove. És d’estats units?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "S–sí, ho sóc."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Ja m’ho semblava. Ho veig pel seu passaport. Nosaltres, les nord-americanes, hem de fer pinya, sap? Especialment en un lloc com aquest. No sé ni pronunciar la meitat del que hi ha a la carta. S’ho pot creure? I què és un falafafafafel? Els veig pels carrers i semblen pilotes d’hoquei."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Crec que estan fets de cigrons fregits."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Ja ho veu. Qui ho havia de dir? Hi ha gent que fregiria qualsevol cosa. Per cert, no vull tafanejar, però veig que té el bitllet de tren sobre la taula i em preguntava… sap si hi ha un autobús que ens porti a l’estació?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "No ho crec. Però crec que l’hotel té un cotxe privat."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Doncs no es preocupi, ho preguntaré. Com diu la Bíblia: 'Si Moisès no té la resposta, pregunta-ho al conserge.'"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "McQueen queda desconcertada."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Bé, me’n vaig. Em sembla que estic molestant aquell homenet amb el bigoti ridícul. I crec que no és de debò. El bigoti, dic."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Somriu i marxa, deixant en McQueen una mica desconcertat però també divertit. En aquest moment, entra una dona italiana, viva, amb un mocador de colors i una petita maleta: és Foscarelli."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Ai, mamma mia, que és ple, això! Disculpin, disculpin… hi ha una taula lliure?"
+    },
+    {
+      "personaje": "Cap de Cambrers",
+      "texto": "Naturalment, madame. Per aquí."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Gràcies. Sempre he volgut veure Istanbul, però crec que ja n’he vist prou. Molt bonic, molta cúpula… i ni una bona tassa de cafè com a casa."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "S’asseu a una taula propera a McQueen. Li dedica un somriure còmplice."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "També va cap a Europa?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Sí, al mateix tren, crec."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "L’Orient Express. Que romàntic, eh? Tot sembla una pel·lícula… fins que cal arrossegar les maletes."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Riu. McQueen intenta somriure, però es nota preocupada. Poirot observa discretament aquests intercanvis, prenent nota mental."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Entra Monsieur Bouc. En veure Poirot, se li il·lumina el rostre i riu amb alegria. Li dona uns copets a l’espatlla. Bouc és també belga, un home amb bon humor."
+    },
+    {
+    "personaje": "BOUC",
+    "texto": "— Espero que el menjar d’aquest humil establiment estigui a l’alçada dels teus estàndards."
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— Què? … Ah, mon Dieu, és Monsieur Bouc!"
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— Amic meu! Ha, ha!"
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— Mon ami! Però què hi fas aquí?"
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— Dirigeixo Wagon-Lit, la millor companyia ferroviària del món, i l’oficina central és en aquest hotel. Garçon! Aquest àpat va a càrrec meu."
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— Ah non."
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— Potser? — Ah oui. Ets el meu convidat. Digue’m, què hi fas aquí?"
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— Resolent un crim."
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— No, no. Això ho vaig fer la setmana passada a Síria. Un cas complicat. El culpable era clar, això és segur. Però potser… perquè el vaig pressionar massa perquè admetés la seva culpa… Va ser una tragèdia absoluta. I tot i així, crec que no vaig fer res malament."
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— És clar que no. Si es trenca la llei, s’ha de pagar el preu. Això és el que sempre m’has dit."
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— És el que guia la meva vida."
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— I diga’m, t’allotges aquí a l’hotel?"
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— Doncs volia quedar-m’hi i fer turisme, però m’ha arribat un telegrama d’Scotland Yard, demanant que torni immediatament, així que he demanat un bitllet per aquesta nit al teu famós Orient Express."
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— Oh! No hi haurà cap problema. I la millor notícia és que jo també hi viatjaré! Vaig a Lausana per feina aquesta nit."
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— Ha ha! C’est magnifique."
+  },
+  {
+    "personaje": "Cap de Cambrers",
+    "texto": "— Pardon, monsieur. El conserge diu que no queden bitllets de primera classe per a l’Express d’aquesta nit. Està tot venut."
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— Ah non!"
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— És el meu tren i mai està ple en aquesta època de l’any. Ridícul."
+  },
+  {
+    "personaje": "Cap de Cambrers",
+    "texto": "— Potser hi ha una festa, o una convenció."
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— Doncs digui-li al conserge que trobi una cabina per a Monsieur Poirot. El número set sempre està disponible. És de reserva. Ara vagi i digui-l’hi!"
+  },
+  {
+    "personaje": "Cap de Cambrers",
+    "texto": "— Ara mateix, monsieur."
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— Merci."
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— No és res. I aquesta nit soparem junts al tren, com abans, i menjarem com reis."
+  },
+  {
+    "personaje": "Poirot",
+    "texto": "— El menjar del tren és comestible?"
+  },
+  {
+    "personaje": "BOUC",
+    "texto": "— Monsieur Poirot! M’has ferit al cor! No és un simple tren el que et portarà aquesta nit: és una llegenda. Funciona com cap altre vehicle a la Terra. Les aixetes són de Nova York, les vaixelles de Roma, els panells de Venècia i les decoracions de París. El millor menjar, els millors llits, els millors coixins dins els llits, i les millors plomes dins els coixins. És poesia sobre rodes. Monsieur, prepara’t. D’aquí una hora, et trobaré a l’andana de l’Orient Express."
+  },
+  {
+    "personaje": "Narrador",
+    "texto": "De sobte, sentim el passatge “Vorwärts Drängend” de la Simfonia núm. 1 de Mahler. El menjador desapareix, l’escena canvia, i la música poderosa i ominosa ens transporta a l’estació de tren d’Istanbul."
+  }
+
+    
+  ]
+}

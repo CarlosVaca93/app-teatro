@@ -1,0 +1,522 @@
+{
+  "id": "escena10",
+  "titulo": "1.10 Els interrogatoris",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "Bang! Els llums s'encenen de cop al cotxe menjador. Poirot en una taula al final del passadís, llest per entrevistar."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Monsieur Poirot, som aquí per complir un deure, només això. No m'agrada que em destorbin el dia."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Aleshores comencem de seguida. Al passaport hi diu que és russa."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Correcte. Visc a l'exili des que els gossos bolxevics van prendre el poder."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I veig que el seu primer nom és…"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Natalya."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Aquest mocador és seu, madame?"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "És clar que no. Té la lletra H. Les meves inicials són N. D. Natalya Dragomiroff."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "És seu, mademoiselle?"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "No, no, jo no podria permetre'm una cosa tan bonica com aquesta. Seria un pecat."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Oh!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I puc preguntar on eren ahir a la nit entre mitjanit i les dues?"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "No podia dormir, així que a mitjanit la Comtessa Andrenyi i jo vam llegir un llibre juntes a la meva cambra. És la millor manera d'adormir-se quan estàs neguitós."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I de què estava neguitosa?"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Dels bolxevics."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I quin llibre llegien?"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Los diez negritos, de l'Agatha Cristie. És molt reconfortant."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I vostè, senyoreta Ohlsson? On era?"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Jo era a la meva cambra amb la senyoreta Debenham, que també és molt maca. Vam parlar des de les dotze fins a les dues i després vam dormir. Ho pot preguntar!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Alguna de vostès ha estat mai a Amèrica?"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Sí, moltes vegades."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Jo no hi he estat, però algun dia hi hauré d'anar a recaptar diners per als meus nadons a l'Àfrica."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "És molt religiosa."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Ja, des que era una nena i en Jaysus em va visitar al meu jardí. Va parlar amb mi i em va dir que havia d'ajudar els nadons africans."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I estic segur que ho ha fet molt bé, mademoiselle. Només una pregunta més per a vostès dues. Sabien qui era l'home assassinat ahir a la nit?"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Es deia Ratchett. I reso per la seva ànima."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "No, Greta, es deia Bruno Cassetti. La comtessa m'ho ha dit. I jo el que prego és que la seva ànima estigui condemnada i que cremi a l'infern!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Princesa!"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Va assassinar una nena anomenada Daisy Armstrong i ens avniem molt amb la seva mare. També conec molt la seva àvia, la gran actriu Linda Arden."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Va ser molt gran."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "No va ser, monsieur. És molt gran. Està molt viva i continua sent l'actriu més gran de l'escena americana. I quan la seva néta de cinc anys va ser assassinada per aquest monstre, Cassetti, també va perdre la seva filla."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Van morir quatre persones?"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "No, cinc, monsieur! Cinc persones van morir! La petita Daisy, la seva mare que estava embarassada i va morir al part, i el nadó també va morir. I el pare de la nena, el Coronel Armstrong, no va poder suportar el dolor i es va llevar la vida! I també una donzella! Cinc ànimes humanes extingides. Així que perdoni'm, Greta, si penso que no hi ha perdó en un cas com aquest, i que el senyor Cassetti hauria d'haver estat assotat fins a la mort!!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Ahh!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Greta surt corrent. La Princesa la segueix i topa amb McQueen, que entra."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Greta! Greta!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Jo… jo… ho sento molt."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Madame McQueen, prengui seient, si us plau."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "És… és clar. Estan bé?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Estaran bé, li ho asseguro. Ara digui'm, quines eren exactament les seves funcions com a secretaria del seu empleador?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Bé… escrivia les seves cartes i feia encàrrecs, coses així."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I el coneixia només com a Samuel Ratchett."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Com si no?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "El seu nom real era Bruno Cassetti."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Déu meu. N'està segur?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Aleshores coneix el cas Armstrong?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Li asseguro que sí! El meu pare era el fiscal del districte de l'estat de Nova York i va portar el cas contra aquell… fill de puta. Amb perdó."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Pot dir-nos qui vivia a casa dels Armstrong?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Els pares amb la nena. La germana de la senyora Armstrong hi anava sovint, però després de la tragèdia es va traslladar a Europa. Es deia Helena. I també hi visitava la mare de la senyora Armstrong. Era actriu."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Algú més?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Hi havia una institutriu, una mainadera i… la pobra Suzanne. Era una donzella francesa, i l'oficina del meu pare va pensar que podria estar implicada, i… i es va desesperar tant per les acusacions que…"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Es va suïcidar."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "I després es va demostrar que era innocent. El meu pare mai no se'n va recuperar."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "On era vostè ahir a la nit entre les dotze i les dues?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "De dotze a dues? Jo… jo era amb el Coronel Arbuthnot a la plataforma d'observació."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I va veure algú que no reconegués?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "No. Vaig veure el conductor Michel, l'altre conductor, el coronel Arbuthnot, la senyoreta Debenham…"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "L'«altre conductor»?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Hi ha un segon conductor?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Jo diria que sí. El vaig veure."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Duia uniforme?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Sí. Igual que el d'en Michel."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Com era?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "No ho sé. Duia el barret abaixat. Era de constitució petita, ja m'entén? Fins i tot una mica femení."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Hi va parlar?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Li vaig dir hola i va seguir caminant."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ha estat molt útil, gràcies. Pot marxar. I si us plau, digui a Michel que vingui."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Faltaria més. Fins després."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "McQueen surt i Bouc esclata."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ahà! Ja ho deia jo que trencaríem el cas! La senyora Hubbard deia la veritat. L'assassí duia uniforme, i ara la pregunta és: on ha anat?!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "No, no, amic meu, la pregunta és si aquest home existeix realment. Podria ser una invenció de Monsieur McQueen."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Però per què mentiria? No és l'assassí."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I per què no?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Perquè no en té l'aspecte! És un crim passional, comès per algú italià o hongarès! Un home amb sang a les venes!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "He revisat tots els passaports i n'hi ha un que em preocupa. Té una taca de greix a la pàgina de la signatura que en tapa la primera lletra del nom de pila i crec que és revelador."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "De qui és?!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Toc, toc. Perdoni, però necessito parlar amb vostès."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Si pogués esperar el seu torn…"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "No puc esperar el meu torn perquè m'han de demanar disculpes."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Jo?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Em pensaven boja."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Pardon, madame, però no sé a què es refereix…"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Al que em refereixo és a l'home que hi havia a la meva cambra! No em van creure, però endevinin què? Tinc una sorpresa. Hi havia un home i ho puc demostrar! Va deixar un botó! Mireu!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Surt un botó de llautó i Bouc el mira."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Hi diu «Orient Express»."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "I tant que sí, igual que els que duu Michel al seu uniforme."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I el va trobar…?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Al terra aquest matí, ben visible, al terra de la meva habitació quan m'he llevat."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I ha esperat fins ara per dir-ho?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "M'acabo de despertar! Se'n diuen vacances, monsieur. I acabo de sentir parlar de l'assassinat d'en Ratchett i he pensat que potser aquest de l'uniforme ho va fer. Tot quadra. Va a l'habitació d'en Ratchett, el mata, surt per la meva, jo em desperto cap a la 1:15 i el veig —bé, no el veig exactament, però en sento la presència— i s'adonen que podria haver-me escanyat o disparat al llit?!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "El nom del mort no era Ratchett, madame, era Bruno Cassetti. Li diu alguna cosa?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "No."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ha sentit parlar del cas Armstrong?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "La nena assassinada? Va ser notícia nacional. Tot el món ho va saber. I què?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "On era ahir a la nit entre les dotze i les dues?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Ah, molt bé, ara sóc sospitosa? Hauria de llegir novel·les de detectius, senyor Sherlock Holmes?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "De dotze a dues, madame."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Ja l'hi he dit! Era sola al llit cap a la una i després, pocs minuts més tard, un home entra i m'espanta de mala manera."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Senyora Hubbard, pot signar aquest paper, si us plau?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Perdoni?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "La seva signatura, per veure la seva lletra."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Sempre he pensat que els francesos són una mica tiquis miquis."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Sóc de Bèlgica."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Ho veu?"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "En aquest moment, Arbuthnot irromp a l'escena."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Perdó per interrompre, però busco la senyoreta Debenham. He mirat per tot arreu i ha desaparegut! No entén què vull dir. Ahir a la nit hi va haver un assassinat en aquest tren, i això té implicacions, oi?"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Se sent un crit espantós, seguit d'un tret."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "AAAAAAAAAA!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Déu meu! És ella!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Què ha passat?!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "De pressa! Per aquí!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Surten corrents. Els llums pampalluguegen mentre es desplacen pel passadís."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "D'on venia?!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "No ho sé!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Què passa?!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Mary?!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Senyoreta Debenham?!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Oh, Déu meu!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Què ha passat?!"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "He sentit un tret!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "No és aquí!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Proveu a l'habitació d'en Ratchett!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Mary!!"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Senyoreta Debenham?!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Empenyeu!"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Més fort!"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Ho estic intentant!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Déu meu!!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Greta crida. Bang! La porta s'obre de cop i entren tots a l'habitació d'en Ratchett. La Mary és estesa a terra en un bassal de sang, amb la pistola d'en Ratchett a prop. Sentim un xiulet de so agut."
+    }
+  ]
+}

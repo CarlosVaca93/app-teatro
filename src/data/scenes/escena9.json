@@ -1,0 +1,578 @@
+{
+  "id": "escena9",
+  "titulo": "1.9 El descobriment del cadàver",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "La nit es transforma en matí i encara som al passadís. La Princesa es dirigeix cap al vagó menjador i veu la Greta davant seu."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Va som-hi, Greta!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Sí, princesa. Bon dia!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Foscarelli passa amb una safata d'esmorzar i s'han d'esmunyir per passar l'un al costat de l'altre."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Mamma mia. Necessito un bon capuccino. Bon dia, principessa."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Bon dia tingui."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Bon dia bellezza."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Bon dia. Ui, perdó."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Foscarelli es posa davant de Greta."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Scussi, scussi. Bon dia, això. Fins ara."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Mentrestant ha entrat McQueen. Sentim uns cops a la porta."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Senyor Ratchett? Senyor? Senyor, podria obrir la porta, si us plau? Hola?!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Bouc i Poirot entren."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Passa alguna cosa?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Com?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "No contesta. I està tancada amb clau."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Signori, està bene?"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Potser amb la clau mestra."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Ben dit!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Espero que tot estigui bé."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Sht."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Hola?"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Cal forçar la porta."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Es trencarà i caldrà arreglar-la."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "De pressa! Noteu l'aire que surt de l'habitació? Fa un fred glacial."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "No m'agrada gens, això!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Crac! Trenquen la porta d'una batzegada. Quan entren a l'habitació, l'espai s'obre de manera que el públic també és dins. Assegut al llit hi ha Samuel Ratchett, amb el pit del pijama tacat de sang. Té un aspecte grotesc i horrible. Un crit d'horror a la banda sonora. Greta crida i cau de genolls. Foscarelli l'agafa."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Aaaaah! Déu meu, Déu meu, és horrible!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Senyor Ratchett!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "No ho puc mirar!"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "És horrorós!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "No m'ho puc creure!"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Madonna mia, sembla un prosciutto!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "No toqueu res! Ni una engruna!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "ÉS UNA VIDA HUMANA! ÉS UNA BARBÀRIE!"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Greta, calma't!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Princesa, podria acompanyar la senyoreta Ohlsson a la seva habitació, si us plau?"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Vine, Greta."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Greta agraeix a Foscarelli i surt amb la Princesa."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Mare meva."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Mai no ha passat res semblant en tota la història de la meva companyia!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Poirot treu unes pinces de la butxaca i aparta suaument el pijama de les ferides."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Què fa?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Estic examinant les ferides. Madame McQueen, quan el va veure per última vegada?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Jo? Jo… jo no sé res! Estava bé ahir a la nit, quan li vaig deixar el vi."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Vostè és la seva secretaria. Què en sap, d'ell?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "No gaire. No, no, no parlava mai de si mateix."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I per què estava tan nerviós, perquè podia demanar ajuda ahir?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Crec que fugia d'Amèrica per escapar d'alguna cosa… Va començar a rebre cartes amenaçadores."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ràpid, porteu-les."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "McQueen marxa corrent."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I vostè busqui la comtessa i digui-li que vingui."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Presto!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "És increïble que passi una cosa així al meu tren! Oh, fa un fred que pela aquí dins."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "La finestra és oberta."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Correcte. Però no hi ha cap petjada."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Miren per la finestra. Es miren entre ells."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Exacte."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Exacte. No… no ho entenc. Per què és oberta, llavors?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Segurament per despistar la policia quan arribi."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "La policia?!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "És clar que la policia. És un assassinat."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Oh no, no, no, no, no, no, no. No volem pas la policia iugoslava. Això ho pots resoldre tu!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Però mon ami –"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "La meva companyia està en joc! Pensa què passaria. La gent diria: «Oh no, no puc viatjar amb l'Orient Express, em convertiran en… prosciutto», t'ho imagines?!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Però jo he d'arribar a Londres d'aquí tres dies."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Doncs resol-ho en dos! Ets un mag. Tu observes, interrogues, fas nosa per tot arreu… i de sobte, puf!, el cas està resolt!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "La policia s'enfadaria."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "La policia iugoslava? Estarien encantats de no haver de fer feina."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Necessitaré un plànol del vagó."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Fet."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I els passaports i bitllets de tots els passatgers."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Fet."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Arriba la Comtessa."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Perdoni, ha demanat que vingués… Oh, Déu meu."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "No sabia que la comtessa era doctora!"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Estaré encantada d'ajudar."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Moltes gràcies, comtessa."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Sense dubtar, es treu la jaqueta i s'arremanga."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "È orribile."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "N'he vist de pitjors, cregui'm. Vaig fer de voluntària a la guerra."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Comtessa comença a examinar el cadàver."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Compto vuit ferides diferents."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "És el mateix recompte que jo."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "I diria que fa entre vuit i deu hores de la mort, la qual cosa es situa entre mitjanit i les dues."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Hi estic d'acord. De les vuit punyalades, cinc semblen fortes i tres només són rascades. I les ferides provenen de direccions diferents. Ho veu?"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Potser la persona va canviar de mà mentre apunyalava."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "O potser hi havia dos agressors. Un dretà i un esquerrà."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "No és impossible. Però ara sorgeix una altra pregunta: per què el senyor Ratchett no es va defensar si tot el temps tenia aquesta pistola sota el coixí?"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Poirot treu el revòlver de sota el coixí. Foscarelli fa gestos exagerats."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Alors. El puc veure?"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Com l'ha trobat?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Me la va ensenyar ahir, així que sabia que era per aquí."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "És una automàtica i crec que està carregada."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Atenció!"
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Ah!"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "No!!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Esperin! Té un segur… ah, però no està posat."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Déu meu, quin ensurt."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Poirot pren la pistola però s'atura i olora l'aire."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Un moment. Tinc un bon nas. Ahà. Olori la copa de vi."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Fa olor d'ametlles. Clarament havia estat drogat, per això –"
+    },
+    {
+      "personaje": "Poirot i Comtessa",
+      "texto": "No es va defensar."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Exacte, no es va defensar."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Hmmm. Què tenim aquí a la butxaca? Voilà."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Treu un rellotge del pijama de Ratchett."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Ah, un rellotge."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Està aturat a la 1:15."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ahà! Tenim una cosa important, oi?! És l'hora de la mort, i la comtessa ha dit entre mitjanit i les dues! No pot ser més clar! La 1:15 és l'hora de la mort."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "És possible."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Achús! Ai mira."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Ho recull i està a punt de mocar-se. Tots l'aturen."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Madame Foscarelli, s'il vous plaît! No toqui res!"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Scussi, scussi! Apa, tingui."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "És un mocador de senyora amb la lletra H brodada."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Com a Hamlet… «Ser o no ser. Aquesta és la qüestió»."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Foscarelli marxa dramàticament."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I qui és la H?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ai déu meu, hi ha Hannah McQueen, Helen Hubbard, i la Mary DebenHam, i… vostè es diu Hercule Poirot!!!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Estàs alterat."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Estic MOLT alterat! Han assassinat un home al meu tren!"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Shhhh… Tranquillo!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Em fumaré un cigarret. I oh, què és això? Mira aquest cendrer. La meva gent no fa bé la feina."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Agafa el cendrer i està a punt de buidar-lo."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "NO! ATURA'T!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Bouc es queda congelat. Poirot observa el contingut del cendrer i treu unes pinces."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "No ho veus? Hi ha un tros de paper cremat. Sembla que hi ha alguna cosa escrita."
+    },
+    {
+      "personaje": "Tots",
+      "texto": "«Recorda la petita Daisy Armstrong»."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Però què vol dir això?"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Va haver-hi un cas a Amèrica fa quatre anys. A Nova York. La petita Daisy Armstrong. La van segrestar de casa seva!"
+    },
+    {
+      "personaje": "Veu de Daisy",
+      "texto": "Mama! Papa!"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Van demanar dos-cents mil dòlars, i es va pagar. Però res! La Daisy no va tornar. Tres dies després, la van trobar la nena al bosc, morta."
+    },
+    {
+      "personaje": "Veu de la Mare",
+      "texto": "Noooooooo! Daisy!"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Déu meu! La policia va atrapar l'assassí, però era de la màfia, la màfia, i pim pum pam papers falsos, amici amici, soborn… I va quedar lliure."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Pausa dramàtica."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Però què té a veure tot això amb en Ratchett?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "La Hannah McQueen ha dit que en Ratchett fugia d'alguna cosa als Estats Units, i que ho havia aconseguit, fins que van començar a arribar les cartes amenaçadores."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Aleshores vostè creu que…?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Que el veritable nom de Ratchett era Bruno Cassetti, l'home que va assassinar la petita Daisy Armstrong."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Tots s'esglaien. Entra McQueen."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Monsieur Poirot, he trobat les cartes."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Bon. Merci. Monsieur Bouc, reculli els passaports de tots els passatgers del vagó i després els passatgers en l'ordre que li aniré indicant. Algú d'aquest tren ha comès aquest crim, i descobriré qui és, us ho prometo!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Fos a negre. Se sent música salvatge, trepidant i dissonant de l'obertura de «La Gazza Ladra» de Rossini."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "escena7",
+  "titulo": "1.7 Mary i Arbuthnot al tren",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "S'encenen els llums. Entra la Mary de pressa i mira al seu voltant. Un moment després, entra l'Arbuthnot."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Oh, gràcies a Déu! Pensava que no vindries!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Què passa? He rebut la teva nota."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Et diré què passa! Estic espantada perquè no hauríem d'estar fent això!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Va, calma't."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "No puc calmar-me! Hem d'aturar-ho!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Això no passarà."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Uf! Aquest és el problema amb vosaltres, els militars: mai no mostreu cap emoció real, sempre amb el posat digne encara que el món s'ensorri!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Mary, no estem fent res dolent! Has de recordar-ho."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Ho intento! De veritat que ho intento!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Arbuthnot l'abraça."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Millor?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Sí, crec que sí."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Hi havia un turó prop de casa meva, a Escòcia, i m'hi asseia durant hores mirant passar els trens a la vall. Sabia que anaven a llocs exòtics i jo volia pujar-hi desesperadament."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Però no ho vas fer."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "No. Suposo que sabia, d'alguna manera, que trencaria el cor de la meva mare."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Ets un home molt bo."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Ella era una dona molt bona."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Saps què és el pitjor de tot això de viatjar tant? Que no tenim cap mena d'intimitat. És desesperant!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Bé, ara mateix no veig ningú a prop, i tu?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "No, suposo que no."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "L'Arbuthnot l'abraça i es besen apassionadament."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Oh, James!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Sigues forta."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Ho seré. Ho prometo."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Se sent algú acostant-se i se separen de cop. Entra McQueen."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Hola, jo… espero no interrompre…"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "És clar que estàs interrompent, idiota. Ets cega o què?"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Oh, perdó! Jo… jo… puc anar a buscar alguna cosa per menjar o…"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "El tren s'atura. Tots tres miren cap amunt, sorpresos."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "El tren! S'ha aturat."
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Què passa?! Què està passant?!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "La neu! Mireu!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Oh, no ara!"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Hem topat amb una congesta de neu!!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Maleït sigui, només ens faltava això!"
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Vols que vagi a mirar?!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "I de què serviria?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "James. Té raó. Deixa-li anar."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Mary?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Endavant, senyoreta McQueen. Nosaltres t'esperarem aquí."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Tornaré de seguida!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "McQueen marxa corrents."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Per què l'has fet marxar així?"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Mary l'abraça i el torna a besar."
+    }
+  ]
+}

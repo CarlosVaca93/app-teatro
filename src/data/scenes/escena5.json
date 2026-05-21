@@ -1,0 +1,170 @@
+{
+  "id": "escena5",
+  "titulo": "1.5 La nit als compartiments del tren",
+  "dialogos": [
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Hola?! Hola?!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Sentim la veu de Michel per l'auricular."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Oui, madame?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Michel, em podries portar un bourbon, si us plau? I amb gel. L'aigua de l'aixeta és terrible."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Ara mateix, madame."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "I què tal unes coses per picar?"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Coses per picar, madame?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Mastegades. Un aperitiu mentre prenc el bourbon."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Ah, vol dir patates fregides, madame."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Sí, el que sigui. Tu porta'm aquestes patates. Tallada i fora."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Penja, després es mira al mirall."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "No estàs gens malament, nena. Et veus cada cop més jove. Ha!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Encén la ràdio, sent una cançó que li agrada i comença a cantar i fer un número de ball. Com més canta, més fort ho fa."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Ara veiem Ratchett al compartiment del costat. Està furiós i pica fortament a la paret."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Vol fer el favor d'abaixar el volum?!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Calli! Qui li ha demanat res?!"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "És mitjanit!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Bzzz! Bzzz! Ratchett truca l'assistent, i Michel arriba ràpidament pel passadís."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Senyor, què passa?!"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Podria dir-li a aquesta dona ridícula que abaixi el volum? Ja és hora d'anar a dormir!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Dona ridícula? Això ho he sentit!"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Monsieur, si la senyora vol cantar una mica…"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Són les dotze de la nit!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Sra. Hubbard irromp al compartiment de Ratchett per la porta comunicant."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Escolti'm bé, ocupi's dels seus assumptes!"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Fuig d'aquí! Què fa? Aquest és el meu compartiment!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Si em ve de gust passar-m'ho bé, ho faré, així que calli."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "És boja! És que… Fora!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Què és vostè, un pinxo? Forma part de la màfia? Michel, crec que és perillós."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Sra. Hubbard veu la pistola de Ratchett a la tauleta de nit."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Oh, Déu meu! Té una pistola! Michel, és una pistola!"
+    },
+    {
+      "personaje": "Michel",
+      "texto": "No és il·legal, madame."
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "Fora d'aquí immediatament!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Esteu boig!"
+    },
+    {
+      "personaje": "Ratchett",
+      "texto": "He dit fora!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Ella surt i tanca la porta de cop. Bang! Es fa fosc al compartiment de Ratchett. Tan bon punt la Sra. Hubbard és de tornada a la seva habitació, comença a cantar i ballar el Charleston, només per molestar-lo. A mesura que continua cantant, veiem focus puntuals sobre altres passatgers."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Oh là là, serà una nit llarga."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Destruirà la nostra reputació, ja està tot perdut."
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Algú l'hauria de disparar i acabar amb la seva misèria."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Foscarelli balla al ritme de la música amb una copa a la mà."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Els llums es van apagant, música fade out. Durant la transició veiem com la neu cau, cada vegada més intensa. El vent udola, fent volar la neu de costat. Zooom! Hooonk! Clang, clang, clang! El tren passa a tota velocitat."
+    }
+  ]
+}

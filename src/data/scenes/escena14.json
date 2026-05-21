@@ -1,0 +1,34 @@
+{
+  "id": "escena14",
+  "titulo": "2.4 Bouc truca Zagreb",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "Un moment després, es veu en Bouc al final del passadís, parlant per l'emissor-receptor."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "'Allo, 'allo, em senten? Estic trucant a l'estació de Zagreb, em senten, Zagreb? Sóc en Constantine Bouc de l'Orient Express."
+    },
+    {
+      "personaje": "RÀDIO",
+      "texto": "El sentim, Monsieur Bouc, el sentim fort i clar."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Continuem atrapats al congost de Polinski. On són vostès?!"
+    },
+    {
+      "personaje": "RÀDIO",
+      "texto": "Hem patit un retard, monsieur, però hauríem d'arribar-hi aviat. Com estan les condicions?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Estem perdent calor i llum, tenim poques provisions, els passatgers estan enfadats i tenim un home mort podrint-se al compartiment dos. Com van les coses per allà?"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Sentim el moviment allegro del quartet de corda en re menor, Opus 76, Núm. 2, de Haydn. Els llums es creuen i donen pas a l'escena següent."
+    }
+  ]
+}

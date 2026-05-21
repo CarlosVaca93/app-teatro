@@ -1,0 +1,166 @@
+{
+  "id": "escena8",
+  "titulo": "1.8 L'home a l'habitació",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "S'encenen els llums. La Sra. Hubbard és al seu compartiment, cridant."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Ajuda! Que vingui algú, de pressa! Ajuda!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Entra corrents en Bouc."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Senyora Hubbard. Què? Què passa?!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Hi havia un home a la meva habitació! Ha fugit! N'estic segura!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Cap a on ha anat?!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Cap allà! Fa només un segon!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Però, madame, jo venia d'aquella banda i no he vist ningú."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Doncs… potser s'ha amagat en un dels compartiments o alguna cosa així! Jo què sé! Et dic que estava estirada al llit, profundament adormida, i obro els ulls i veig aquell home sortint per la porta. I duia uniforme!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Però d'on podia haver sortit?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "No ho sé. Simplement ha aparegut de cop."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "I com era…?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Que no ho sé! Amb prou feines l'he vist! Un segon era allà i el següent, havia desaparegut. Ai, semblava un fantasma!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Però com pot ser això?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "COM VOL QUE HO SÀPIGA JO?!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Potser estaves somiant."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "No estava somiant. Sé quan estic somiant. Se m'asseca la boca. Et sembla que tinc la boca seca?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "I la porta, estava tancada amb clau?"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "És clar que sí, però la gent té claus, oi? Segur que tu tens claus. No ets el propietari de la companyia?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "No, madame, en sóc el director. I m'encarregaré de tot plegat."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Doncs molt bé. Però afanya't. No em sento segura!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Sra. Hubbard tanca la porta. En Poirot treu el cap pel seu compartiment."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Us té entretinguts, la senyora Hubbard."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ni t'ho imagines. Insisteix que hi havia un home dins del seu compartiment."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Potser en Michel?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Impossible. Ara mateix està ajudant el meu maquinista."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "En Poirot arrufa el front. Alguna cosa no li encaixa."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Regarde. No ens estem movent."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ja t'ho dic jo."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Una congesta de neu?"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Oui. I estem atrapats fins que enviïn homes des de Belgrad per desenterrar-nos."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ah, non, non, non, non, non, non, non…"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Ho sento, amic meu. Però et prometo que estaràs completament còmode tot el temps que calgui."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "La Sra. Hubbard treu el cap per la seva porta."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Bouc! Ja l'has trobat?!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Encara no, madame."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Doncs continua buscant!"
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Bona nit, amic meu. Espero que dormis bé aquesta nit, perquè serà més del que podré fer jo."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "I afanya't, eh!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "En Bouc se'n va. En Poirot torna al seu compartiment i mira el rellotge. Sentim el passatge entremaliat de l'obertura de «La Gazza Ladra» de Rossini."
+    }
+  ]
+}

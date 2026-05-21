@@ -1,0 +1,14 @@
+{
+  "id": "escena12",
+  "titulo": "2.2 Michel i Zagreb",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "Final del passadís. Michel parla per l'emissor-receptor."
+    },
+    {
+      "personaje": "Michel",
+      "texto": "Zagreb, respongui, si us plau. Tenim una emergència! No podem contactar amb Belgrad i som a vint milles de la ciutat més propera. Necessitem assistència! Zagreb, respongui!"
+    }
+  ]
+}
