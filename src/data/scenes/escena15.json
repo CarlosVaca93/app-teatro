@@ -1,0 +1,254 @@
+{
+  "id": "escena15",
+  "titulo": "3.1 La revelació de Poirot",
+  "dialogos": [
+    {
+      "personaje": "NARRADOR",
+      "texto": "Durant la transició, sentim tots els sospitosos xerrant mentre es dirigeixen cap al vagó restaurant. Quan s'encenen els llums, som al vagó restaurant i veiem en Arbuthnot, la Greta, la Princesa, la McQueen, i la Foscarelli, totes esperant impacients."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "A mi em va escriure una nota dient-me que l'esperés aquí."
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "A mi també em va escriure el mateix."
+    },
+    {
+      "personaje": "Greta",
+      "texto": "I a mi!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Vull saber què coi està passant!"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Trobo això ridícul!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Entren la Sra. Hubbard, la Mary i la Comtessa des de diferents direccions."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "I on s'amaga ara el franceset?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Jo he rebut una nota tot dient que l'esperés aquí."
+    },
+    {
+      "personaje": "Comtessa",
+      "texto": "Jo també n'he rebut una."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "És evident que prepara alguna cosa, aquest fera."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Tots comencen a parlar alhora. En aquell moment entra Poirot, seguit per en Bouc i en Michel."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Pardon, pardon. Si us plau, posin-se còmodes. He de fer un anunci."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Tots prenen aire col·lectivament. Miren Poirot, que es col·loca al centre."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Senyores i senyors. Els he reunit per revelar-los qui és l'assassí de Monsieur Samuel Ratchett, també conegut com Bruno Cassetti."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Està de broma!"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "No pot ser!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "No m'ho crec."
+    },
+    {
+      "personaje": "McQueen",
+      "texto": "Sap qui ha estat?"
+    },
+    {
+      "personaje": "Foscarelli",
+      "texto": "Impossibile!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Però abans he d'interrogar un passatger que encara no ha contestat cap de les meves preguntes. Coronel Arbuthnot –"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Jo?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Durant el seu servei al país, va conèixer un oficial anomenat Charles Armstrong?"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Vam servir al mateix teatre d'operacions, però mai ens vam conèixer."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Coneixia el cas de la petita Daisy Armstrong?"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Per descomptat. La va assassinar una bèstia que només volia diners."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Sabia que el coronel Armstrong era el pare de la Daisy?"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "No, no ho sabia."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Coronel, a l'hotel d'Istanbul vaig sentir dir a la senyoreta Debenham que ningú no els havia de veure junts fins que tot estigués «al darrere». Què volia dir això?"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "No ho puc imaginar."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "I vostè, mademoiselle, pot explicar què volia dir?"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "Ja l'hi vaig dir. Volia deixar enrere aquest viatge."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Crec que menteix."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Ei, un moment!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Seieu, coronel, encara estic parlant. Què volia dir a l'hotel, eh? Ella volia deixar enrere què?!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Els dos es miren fixament, la tensió és màxima."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "… Estic casat! D'acord?! Estic tramitant el divorci – que em mereixo, perquè la meva dona està amb un altre home – però perdré el cas si se sap que estic sortint amb una dona. Quan el divorci estigui resolt podrem deixar d'amagar-nos, i per això hem intentat mantenir-ho en privat, entesos?"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Doncs ho han fet molt malament, em temo."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Alguns de nosaltres tenim sentiments, Poirot. Estic segur que vostè sacrificaria la seva pròpia mare si això el portés a una de les seves maleïdes solucions, i crec que vostè no sap el que està fent."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Sé perfectament el que estic fent, coronel. Estic investigant l'assassinat de Bruno Cassetti."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Doncs bé, es mereixia morir!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Ahà! Així doncs, sap qui era!"
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Bé… sí. M'ho van dir."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Però ho sabia abans que l'hi diguessin? I el coronel Armstrong no era amic seu a la guerra? No van salvar vides junts mentre lluitaven?"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Poirot assenyala la medalla a la solapa d'Arbuthnot. Arbuthnot esclata de ràbia, agafa Poirot per la solapa i l'aixeca del terra."
+    },
+    {
+      "personaje": "Arbuthnot",
+      "texto": "Calla, ninot xafarder i ploramiques! Què saps tu de la tragèdia, eh?! Què saps tu de l'honor, de la lleialtat i de la maleïda justícia?!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Tothom es posa dret de cop i intenta retenir-lo, tothom parlant alhora."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "Atureu-vos!"
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "Coronel!"
+    },
+    {
+      "personaje": "Greta",
+      "texto": "Coronel Arbuthnot!"
+    },
+    {
+      "personaje": "Mary",
+      "texto": "James!"
+    },
+    {
+      "personaje": "Princesa",
+      "texto": "Però què està fent?!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Per un moment, sembla que Arbuthnot escanyarà Poirot i li farà molt de mal, però finalment el deixa anar i es gira d'esquena. Poirot es posa d'empeus. Es recomposa. Es fa un silenci, tothom molt preocupat."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "M'ha estat mentint, oi? Tots en aquesta sala m'heu estat mentint una vegada i una altra, però que no hi hagi dubte: sé qui va matar en Bruno Cassetti."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Silenci."
+    },
+    {
+      "personaje": "Sra. Hubbard",
+      "texto": "… L'escoltem."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "Hi ha dues explicacions possibles per aquest crim. La primera explicació: Sigilosament un mafiós puja al tren a l'estació de Minkof, portant un uniforme i una clau mestra, i apunyala en Ratchett. Creua la cabina de la Sra. Hubbard i aconsegueix escapar-se."
+    },
+    {
+      "personaje": "Bouc",
+      "texto": "No. No no no no! Això no encaixa. Qui va drogar en Ratchett? I qui va disparar a la senyoreta Debenham? No pot ser!"
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "És clar que no. Aquest crim és l'assassinat d'un assassí. L'alleugeriment d'un patiment. Permetin-me proposar una segona solució, perquè dos esdeveniments inesperats van fer impossible la primera. El primer esdeveniment va ser la nevada que va obligar el tren a aturar-se: això significava que l'assassí ara tenia un gran problema. ON PODIA ANAR?! No podia baixar a l'estació següent, perquè no n'hi havia cap. Així que, a menys que pogués volar, l'assassí ha de ser encara entre nosaltres en aquest tren. Ha de ser un de vostès!"
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "Silenci."
+    },
+    {
+      "personaje": "Poirot",
+      "texto": "El segon esdeveniment va ser el descobriment del fragment d'una carta que deia: «Recorda la petita Daisy Armstrong.» I gràcies a aquest fragment sabem que l'assassí no era un enemic qualsevol d'en Cassetti, sinó algú que va venir a venjar la mort d'una nena de cinc anys. La primera pista que em va portar a aquesta solució va aparèixer quan vaig saber que no quedava ni un sol bitllet lliure al vagó de primera classe de l'Orient Express."
+    },
+    {
+      "personaje": "NARRADOR",
+      "texto": "So sec. De sobte, la sala queda a les fosques, amb només focus blaus il·luminant els passatgers quan cal. És un flashback a un moment anterior de l'obra."
+    }
+  ]
+}

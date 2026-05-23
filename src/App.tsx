@@ -15,6 +15,8 @@ import escena11 from './data/scenes/escena11.json'
 import escena12 from './data/scenes/escena12.json'
 import escena13 from './data/scenes/escena13.json'
 import escena14 from './data/scenes/escena14.json'
+import escena15 from './data/scenes/escena15.json'
+import escena16 from './data/scenes/escena16.json'
 
 interface Dialogo {
   personaje: string
@@ -27,7 +29,7 @@ interface Escena {
   dialogos: Dialogo[]
 }
 
-const ESCENAS: Escena[] = [escena2, escena3, escena4, escena5, escena6, escena7, escena8, escena9, escena10, escena11, escena12, escena13, escena14]
+const ESCENAS: Escena[] = [escena2, escena3, escena4, escena5, escena6, escena7, escena8, escena9, escena10, escena11, escena12, escena13, escena14, escena15, escena16]
 
 type Fase = 'seleccion' | 'jugando' | 'fin'
 

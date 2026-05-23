@@ -230,6 +230,21 @@
   filter: brightness(1.05);
 }
 
+.escena__boton--pista {
+  font-size: 10px;
+  padding: 6px 14px;
+  color: var(--ink-muted);
+  border-style: dashed;
+}
+
+.escena__pista {
+  font-family: var(--font-script);
+  font-size: 15px;
+  color: var(--ink-muted);
+  letter-spacing: 0.05em;
+  font-style: italic;
+}
+
 .escena__progreso {
   font-family: var(--font-sans);
   font-size: 10px;

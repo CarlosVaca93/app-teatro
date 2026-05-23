@@ -31,6 +31,7 @@ export default function EscenaImpro({
   const [textoUsuario, setTextoUsuario] = useState('')
   const [lineaEnviada, setLineaEnviada] = useState('')
   const [verificando, setVerificando] = useState(false)
+  const [pistaVisible, setPistaVisible] = useState(false)
 
   const dialogo = escena.dialogos[indiceDialogoActual]
   const esTurnoUsuario = dialogo.personaje === personajeElegido
@@ -43,11 +44,15 @@ export default function EscenaImpro({
     : -1
   const puedesSaltar = destinoSalto > indiceDialogoActual + 1
 
+  const primerDosPalabras = dialogo.texto.split(/\s+/).slice(0, 2).join(' ')
+
   function handleSubmit(e: SyntheticEvent<HTMLFormElement>) {
     e.preventDefault()
     if (textoUsuario.trim()) {
       setLineaEnviada(textoUsuario.trim())
       setTextoUsuario('')
+      setVerificando(false)
+      setPistaVisible(false)
       setVerificando(true)
     }
   }
@@ -55,6 +60,7 @@ export default function EscenaImpro({
   function handleResultado(resultado: 'bueno' | 'malo') {
     setLineaEnviada('')
     setVerificando(false)
+    setPistaVisible(false)
     onResultado(resultado)
   }
 
@@ -115,13 +121,26 @@ export default function EscenaImpro({
               rows={4}
               autoFocus
             />
-            <button
-              className="escena__boton"
-              type="submit"
-              disabled={!textoUsuario.trim()}
-            >
-              Enviar
-            </button>
+            <div className="escena__acciones">
+              <button
+                className="escena__boton"
+                type="submit"
+                disabled={!textoUsuario.trim()}
+              >
+                Enviar
+              </button>
+              <button
+                className="escena__boton escena__boton--pista"
+                type="button"
+                onClick={() => setPistaVisible(true)}
+                disabled={pistaVisible}
+              >
+                Pista
+              </button>
+            </div>
+            {pistaVisible && (
+              <p className="escena__pista">«{primerDosPalabras}…»</p>
+            )}
           </form>
         ) : (
           <>
